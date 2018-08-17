@@ -5,3 +5,7 @@ A few useful C snippets code , like how to write and read a txt file :)
         
 
         -> How to Read a TxT File in C [ files/read ]
+        
+        
+        -> Sorting Algorithms
+                1 - Bubbl Sort
