@@ -8,4 +8,4 @@ A few useful C snippets code , like how to write and read a txt file :)
         
         
         -> Sorting Algorithms
-                1 - Bubbl Sort
+                1 - Bubble Sort
