@@ -1,6 +1,6 @@
 # Selecton Sort Algorithm
 
-1 - to compile
+1 - to compile te selection.c
 
 	-> gcc -o selection selection.c
 	-> ./selection.exe
