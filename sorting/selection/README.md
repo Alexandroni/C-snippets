@@ -1,4 +1,4 @@
-# Selecton Sort Algorithm
+# Selection Sort Algorithm
 
 1 - to compile te selection.c
 
