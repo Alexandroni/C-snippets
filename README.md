@@ -10,3 +10,4 @@ A few useful C snippets code , like how to write and read a txt file :)
         -> Sorting Algorithms
                 1 - Bubble Sort
                 2 - Selection Sort
+                3 - Insertion Sort
