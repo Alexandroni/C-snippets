@@ -16,15 +16,11 @@ void printVector(int *source){
 void insertion(int *source){
 	
 	int i, j, aux;
-	int actual;
 	
 	//first loop - initates at 1
 	for (i = 1; i < 10; i++){
 		
 		j = i;
-		
-		//select the actual element
-		actual = source[i];
 		
 		//second loop
 		while(j > 0 && source[j -1] > source[j]){
